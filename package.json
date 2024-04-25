@@ -1,0 +1,21 @@
+{
+  "name": "monorepo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": ""
+  },
+  "workspaces": [
+    "codebility/codebility-fe",
+    "codebility/codebility-be",
+    "formapp/formapp-fe",
+    "formapp/formapp-be",
+    "tapup/tapup-fe",
+    "tapup/topup-be",
+    "packages"
+  ],
+  "author": "Chysev",
+  "license": "MIT"
+}

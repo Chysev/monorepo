@@ -1,0 +1,16 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Chysev",
+  "license": "MIT",
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-menubar": "^1.0.4",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-switch": "^1.0.3",
+    "cmdk": "^1.0.0"
+  }
+}

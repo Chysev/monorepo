@@ -1,0 +1,14 @@
+/codebility/codebility-fe/.next
+/codebility/codebility-fe/node_modules
+/codebility/codebility-fe/package-lock.json
+
+/formapp/formapp-fe/.next
+/formapp/formapp-fe/node_modules
+/formapp/formapp-fe/package-lock.json
+
+/taptup/taptup-fe/.next
+/taptup/taptup-fe/node_modules
+/taptup/taptup-fe/package-lock.json
+
+
+/node_modules
