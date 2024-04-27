@@ -10,5 +10,8 @@
 /taptup/taptup-fe/node_modules
 /taptup/taptup-fe/package-lock.json
 
-
+/packages/node_modules
 /node_modules
+
+/package-lock.json
+*storybook.log
