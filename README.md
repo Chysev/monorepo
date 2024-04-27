@@ -7,4 +7,4 @@
 
 ## About the Project
 
-<img src="./Monorepo-workspace.jpg" >
+<img src="./Monorepo.jpg" >
